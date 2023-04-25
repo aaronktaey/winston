@@ -1,0 +1,152 @@
+2023-04-24 13:48:37 [Winston 연습 어플리케이션] error: uncaughtException: logger.info is not a function
+TypeError: logger.info is not a function
+    at Object.<anonymous> (D:\workspaces\winston\index.js:3:8)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-04-24 13:48:59 [Winston 연습 어플리케이션] error: uncaughtException: logger.info is not a function
+TypeError: logger.info is not a function
+    at Object.<anonymous> (D:\workspaces\winston\index.js:3:8)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-04-24 13:49:28 [Winston 연습 어플리케이션] error: uncaughtException: logger.info is not a function
+TypeError: logger.info is not a function
+    at Object.<anonymous> (D:\workspaces\winston\log.js:3:8)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-04-24 13:51:12 [Winston 연습 어플리케이션] error: uncaughtException: logger.logger is not a function
+TypeError: logger.logger is not a function
+    at Object.<anonymous> (D:\workspaces\winston\log.js:3:8)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-04-24 13:51:39 [Winston 연습 어플리케이션] error: uncaughtException: logger.error is not a function
+TypeError: logger.error is not a function
+    at Object.<anonymous> (D:\workspaces\winston\log.js:3:8)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-04-24 13:51:55 [Winston 연습 어플리케이션] error: uncaughtException: logger.warn is not a function
+TypeError: logger.warn is not a function
+    at Object.<anonymous> (D:\workspaces\winston\log.js:3:8)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-04-24 13:52:39 [Winston 연습 어플리케이션] error: uncaughtException: logger.warn is not a function
+TypeError: logger.warn is not a function
+    at Timeout._onTimeout (D:\workspaces\winston\log.js:3:12)
+    at listOnTimeout (node:internal/timers:568:17)
+    at process.processTimers (node:internal/timers:511:7)
+2023-04-24 13:53:09 [Winston 연습 어플리케이션] error: uncaughtException: logger.info is not a function
+TypeError: logger.info is not a function
+    at Timeout._onTimeout (D:\workspaces\winston\log.js:3:12)
+    at listOnTimeout (node:internal/timers:568:17)
+    at process.processTimers (node:internal/timers:511:7)
+2023-04-24 14:02:45 [Winston 연습 어플리케이션] error: uncaughtException: logger.info is not a function
+TypeError: logger.info is not a function
+    at Timeout._onTimeout (D:\workspaces\winston\log.js:3:12)
+    at listOnTimeout (node:internal/timers:568:17)
+    at process.processTimers (node:internal/timers:511:7)
+2023-04-24 14:04:56 [Winston 연습 어플리케이션] error: uncaughtException: logger.info is not a function
+TypeError: logger.info is not a function
+    at logAll (D:\workspaces\winston\log.js:8:12)
+    at Timeout._onTimeout (D:\workspaces\winston\log.js:4:5)
+    at listOnTimeout (node:internal/timers:568:17)
+    at process.processTimers (node:internal/timers:511:7)
+2023-04-24 14:05:16 [Winston 연습 어플리케이션] error: uncaughtException: Cannot access 'logAll' before initialization
+ReferenceError: Cannot access 'logAll' before initialization
+    at Object.<anonymous> (D:\workspaces\winston\log.js:3:5)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-04-24 14:05:27 [Winston 연습 어플리케이션] error: uncaughtException: logger.info is not a function
+TypeError: logger.info is not a function
+    at logAll (D:\workspaces\winston\log.js:5:12)
+    at Object.<anonymous> (D:\workspaces\winston\log.js:13:1)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-04-24 14:05:49 [Winston 연습 어플리케이션] error: uncaughtException: logger.info is not a function
+TypeError: logger.info is not a function
+    at logAll (D:\workspaces\winston\log.js:5:12)
+    at Object.<anonymous> (D:\workspaces\winston\log.js:13:1)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-04-24 14:05:52 [Winston 연습 어플리케이션] error: uncaughtException: logger.info is not a function
+TypeError: logger.info is not a function
+    at logAll (D:\workspaces\winston\log.js:5:12)
+    at Object.<anonymous> (D:\workspaces\winston\log.js:13:1)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-04-24 14:13:11 [Winston 연습 어플리케이션] error: uncaughtException: exception is not defined
+ReferenceError: exception is not defined
+    at logAll (D:\workspaces\winston\log.js:12:5)
+    at Object.<anonymous> (D:\workspaces\winston\log.js:15:1)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-04-24 14:13:29 [Winston 연습 어플리케이션] error: uncaughtException: exception is not defined
+ReferenceError: exception is not defined
+    at logAll (D:\workspaces\winston\log.js:12:5)
+    at Object.<anonymous> (D:\workspaces\winston\log.js:15:1)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-04-24 14:14:47 [Winston 연습 어플리케이션] error: uncaughtException: Exception!
+  No stack trace
+2023-04-24 14:17:44 [Winston 연습 어플리케이션] error: uncaughtException: Exception!
+  No stack trace
+2023-04-24 14:19:40 [Winston 연습 어플리케이션] error: uncaughtException: Exception!
+  No stack trace
+2023-04-24 14:20:52 [Winston 연습 어플리케이션] error: uncaughtException: Exception!
+  No stack trace
+2023-04-24 14:21:14 [Winston 연습 어플리케이션] error: uncaughtException: Exception!
+  No stack trace
+2023-04-24 14:24:13 [Winston 연습 어플리케이션] error: uncaughtException: Exception!
+  No stack trace
+2023-04-24 14:24:16 [Winston 연습 어플리케이션] error: uncaughtException: Exception!
+  No stack trace
+2023-04-24 14:24:38 [Winston 연습 어플리케이션] error: uncaughtException: Exception!
+  No stack trace
+2023-04-24 14:25:02 [Winston 연습 어플리케이션] error: uncaughtException: Exception!
+  No stack trace
